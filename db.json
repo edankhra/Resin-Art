@@ -1,0 +1,27 @@
+{
+
+    "frame" : [
+        {
+            "id": 1,
+            "style": "Round",
+            "size": [
+                     "12*12", "15*15","30*30"
+                    ],
+            "color": [
+                      "White","Red","Blue"
+                     ],
+            "price": "100"  
+        }
+        {
+            "id": 1,
+            "style": "Square",
+            "size": [
+                     "12*12", "15*15","30*30"
+                    ],
+            "color": [
+                      "White","Red","Blue"
+                     ],
+            "price": "150"   
+        }
+    ]
+}
